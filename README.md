@@ -1,8 +1,6 @@
-# Characterization, Detection, and Personalization of Religiously Intolerant Arabic Videos
+This repo contains the data used in our CSCW 2022 paper titled **'Deradicalizing YouTube: Characterization, Detection, and Personalization of Religiously Intolerant Arabic Videos'**
 
-This repo contains the data used in our CSCW 2022 paper titled 'Deradicalizing YouTube: Characterization, Detection, and Personalization of Religiously Intolerant Arabic Videos' 
-
-Please cite our paper if you find our data helpful for your research: 
+Please cite our paper if you find any of our data helpful for your research: 
 
 ```
 @article{albadi2022Deradicalizing,
