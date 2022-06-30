@@ -1,4 +1,4 @@
-Data used in our CSCW 2022 paper titled **'Deradicalizing YouTube: Characterization, Detection, and Personalization of Religiously Intolerant Arabic Videos'** can be accessed from [here](https://osf.io/cf9w8/?view_only=aa81f43ff28c4faaa7514ccccc6a386c)
+Data used in our CSCW 2022 paper titled **'Deradicalizing YouTube: Characterization, Detection, and Personalization of Religiously Intolerant Arabic Videos'** can be accessed from [here](https://osf.io/cf9w8/?view_only=aa81f43ff28c4faaa7514ccccc6a386c). 
 
 Please cite our paper if you find any of our data helpful for your research: 
 
