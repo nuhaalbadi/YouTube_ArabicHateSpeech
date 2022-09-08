@@ -7,8 +7,8 @@ Please cite our paper if you find any of our data helpful for your research:
   title={Deradicalizing YouTube: Characterization, Detection, and Personalization of Religiously Intolerant Arabic Videos},
   author={Albadi, Nuha and Kurdi, Maram and Mishra, Shivakant},
   journal={Proceedings of the ACM on Human-Computer Interaction},
-  volume={},
-  number={CSCW},
+  volume={6},
+  number={CSCW2},
   pages={1--25},
   year={2022},
  publisher={ACM New York, NY, USA}
